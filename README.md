@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/zcdanny/Homework14_Rakamin_Next-JS-Routing-Api-Rendering-method/assets/100658079/e8494175-ace4-41ca-8103-7f4e2a945339)
 
 ## Getting Started
 
