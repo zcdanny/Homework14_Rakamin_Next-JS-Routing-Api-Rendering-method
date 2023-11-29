@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-This repository is a clone of ["homework-2"](https://github.com/asaadam/homework-2) repository, which was created by [Adam Akbar](https://github.com/asaadam).
-=======
+![image](https://github.com/zcdanny/Homework14_Rakamin_Next-JS-Routing-Api-Rendering-method/assets/100658079/a995723f-2112-4e4a-96ce-bcd2987feb9e)
+![image](https://github.com/zcdanny/Homework14_Rakamin_Next-JS-Routing-Api-Rendering-method/assets/100658079/79d194c3-1dab-478a-840c-f6dce9272478)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-![image](https://github.com/zcdanny/Homework14_Rakamin_Next-JS-Routing-Api-Rendering-method/assets/100658079/e8494175-ace4-41ca-8103-7f4e2a945339)
 
 ## Getting Started
 
