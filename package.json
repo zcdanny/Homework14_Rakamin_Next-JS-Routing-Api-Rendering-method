@@ -1,0 +1,51 @@
+{
+<<<<<<< HEAD
+  "name": "next-js",
+=======
+  "name": "mybooks",
+>>>>>>> f0c83379084fe787372dcab4bf726e700cea812c
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@prisma/client": "^5.6.0",
+    "bcrypt": "^5.1.1",
+    "eslint": "^8.48.0",
+    "eslint-config-next": "^13.4.19",
+    "framer-motion": "^10.16.5",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sweetalert2": "^11.10.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.6.0"
+=======
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@prisma/client": "^5.5.2",
+    "axios": "^1.6.1",
+    "next": "14.0.2",
+    "prisma": "^5.5.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.2"
+>>>>>>> f0c83379084fe787372dcab4bf726e700cea812c
+  }
+}

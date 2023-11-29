@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+=======
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+>>>>>>> f0c83379084fe787372dcab4bf726e700cea812c
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+<<<<<<< HEAD
+=======
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+>>>>>>> f0c83379084fe787372dcab4bf726e700cea812c
+model User {
+  id       Int      @id @default(autoincrement())
+  name     String
+  email    String   @unique
+  password String
+}
+
+model Book {
+  id        Int      @id @default(autoincrement())
+  title     String
+  author    String
+  publisher String
+  year      Int
+  pages     Int
+  image     String?  // New column for storing the book image file path
+}
